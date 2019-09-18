@@ -1,0 +1,14 @@
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.1\CoreBackend.Api.deps.json
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.1\CoreBackend.Api.runtimeconfig.json
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.1\CoreBackend.Api.runtimeconfig.dev.json
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.1\CoreBackend.Api.dll
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.1\CoreBackend.Api.pdb
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.csprojAssemblyReference.cache
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.csproj.CoreCompileInputs.cache
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.RazorAssemblyInfo.cache
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.RazorAssemblyInfo.cs
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.AssemblyInfoInputs.cache
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.AssemblyInfo.cs
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.RazorTargetAssemblyInfo.cache
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.dll
+E:\GitRepository\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.1\CoreBackend.Api.pdb
