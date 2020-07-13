@@ -11799,23 +11799,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\15330\\.nuget\\packages\\": {},
+    "C:\\Users\\pzl\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitRepository\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
+      "projectUniqueName": "E:\\MyProject\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
       "projectName": "CoreBackend.Api",
-      "projectPath": "E:\\GitRepository\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
-      "packagesPath": "C:\\Users\\15330\\.nuget\\packages\\",
-      "outputPath": "E:\\GitRepository\\CoreBackend.Api\\CoreBackend.Api\\obj\\",
+      "projectPath": "E:\\MyProject\\CoreBackend.Api\\CoreBackend.Api\\CoreBackend.Api.csproj",
+      "packagesPath": "C:\\Users\\pzl\\.nuget\\packages\\",
+      "outputPath": "E:\\MyProject\\CoreBackend.Api\\CoreBackend.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\15330\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pzl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11823,6 +11823,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\192.168.6.70\\PrismlabNuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
